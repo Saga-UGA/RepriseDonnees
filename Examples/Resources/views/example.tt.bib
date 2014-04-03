@@ -1,3 +1,16 @@
-Dear [% name %],
+{% INCLUDE header.tt.bib %}
 
+@article{{% key %},
+    title="{% title %}",
+    author="{% PROCESS authors %}",
+}
 
+{% BLOCK authors %}
+{% FOREACH author IN authors %}
+  {%- IF !loop.last %}
+    {%- author %} AND 
+  {%- ELSE %}
+    {%- author %}
+  {%- END -%}
+{% END %}
+{% END %}
