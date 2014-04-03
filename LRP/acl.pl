@@ -1,40 +1,52 @@
 #!/usr/bin/perl
-# LRP
+# Conversion BibTex pour les données du LRP
 
 use strict;
 my $compt = 0;
-my $authors = "";
-my $title = "";
 
 open (REFS, "<$ARGV[0]") or die("open: $!");
 
  while (<REFS>){
-   if (/@/)  { 
-     $compt+=1; 
-     print "\@article{_ref$compt,\n";
-     $authors = <REFS>;
-     chomp($authors);
-     print "\tauthor= {$authors},\n";
-     $_ = <REFS>;
-     chop;
-     s/\.$//;
-     print "\ttitle= {$_},\n";
-     $_ = <REFS>;
-     chop;
-     s/\.$//;
-     print "\tjournal = {$_},\n";
-     print "}\n";
+   m/\@/ && do  { 
+		$compt+=1; 
+		print "\@article{_ref$compt,\n";
+		
+		$_ = <REFS>;
+    	chop;
+     	\&AUTHORS($_);
+	 	
+		$_ = <REFS>;
+     	chop;
+		\&TITLE($_);
+     	
+		$_ = <REFS>;
+     	chop;
+		\&JOURNAL($_);
+     	
+		print "}\n";
     }
  };
 close REFS;
 
-# while (<>){
-#    $compt++;
-#    s/^\n$//;
-#    s/((\w+), \w+), /\@Article{$2_$compt ,\n author = {$1},\n/;
-#    s/«(.+)»/title = {$1},\n/;
-#    s/pp\. (.+)\./pages = {$1},\n/;
-#    s/, ([1-2]\d\d\d),/\nyear = {$1},\n/;
-#    s/$/}\n/;
-#    print;
-#};
+sub AUTHORS {
+    my $authors = shift(@_);
+    print "\tauthor= {$authors},\n";
+}
+
+sub TITLE {
+    shift(@_);
+	s/\.$//;
+    print "\ttitle= {$_},\n";
+}
+
+sub JOURNAL {
+    shift(@_);
+	s/\.$//;
+    if (s/^([^,]+),//)  { print "\tjournal = {$1},\n"; }  
+    if (s/vol[^ ]+ (\d+),//i)  { print "\tvolume = {$1},\n"; }
+ 	if (s/pp[^\d]+([^,]+),//)  { print "\tpages = {$1},\n"; }
+	if (s/([1-2]\d\d\d)$//)  { print "\tyear = {$1},\n"; }
+	
+	print "reste =$_\n";
+    
+}

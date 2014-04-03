@@ -1,0 +1,16 @@
+@
+K. CHIBA, A. AMMAR, F. CHINESTA
+On the fiber orientation in steady recirculating flows involving short fibers suspensions.
+Rheologica Acta, Volume 44, N° 4, April, pp.406-417, 2005.
+@
+A. AMMAR, J.R. CLERMONT
+A finite-element approach in stream-tube method for solving fluid and solid mechanics problems.
+Mechanics Research Communications, 32, pp 65-73, 2005.
+@
+L. JOSSIC, A. MAGNIN
+Structuring of gelled suspensions flowing through a sudden three dimensional expansion
+Journal of Non-Newtonian Fluid Mechanics, Vol. 127, Issues 2-3, pp. 201-212, May 2005.
+@
+C. METIVIER, C. NOUAR, J.P. BRANCHER
+Linear stability involving the Bingham model when the yield stress approaches zero.
+Physics of Fluids 17, 104106, 2005.
