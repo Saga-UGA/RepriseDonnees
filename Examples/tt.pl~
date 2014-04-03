@@ -1,7 +1,0 @@
-#!/usr/bin/perl
-
-use strict;
-use warning;
-use utf8;
-
-use template; # This is required to use TemplateToolkit
