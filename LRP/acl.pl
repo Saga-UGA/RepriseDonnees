@@ -2,51 +2,59 @@
 # Conversion BibTex pour les données du LRP
 
 use strict;
-my $compt = 0;
+use warnings;
+use utf8;
+use Data::Dumper;
 
-open (REFS, "<$ARGV[0]") or die("open: $!");
+use Template;
 
- while (<REFS>){
-   m/\@/ && do  { 
-		$compt+=1; 
-		print "\@article{_ref$compt,\n";
-		
-		$_ = <REFS>;
-    	chop;
-     	\&AUTHORS($_);
-	 	
-		$_ = <REFS>;
-     	chop;
-		\&TITLE($_);
-     	
-		$_ = <REFS>;
-     	chop;
-		\&JOURNAL($_);
-     	
-		print "}\n";
-    }
- };
-close REFS;
+my $file = $ARGV[0];
+my $data = slurp($file);
 
-sub AUTHORS {
-    my $authors = shift(@_);
-    print "\tauthor= {$authors},\n";
+my $ref = oneByOne($data);
+my $vars = extract($ref);
+
+print Dumper $vars;
+
+sub slurp {
+  my $file = shift;
+
+  open my $fh, "<", $file
+    || die;
+
+  local $/ = undef;
+
+  my $entireFile = <$fh>;
+
+  close $fh;
+  return $entireFile;
 }
 
-sub TITLE {
-    shift(@_);
-	s/\.$//;
-    print "\ttitle= {$_},\n";
+sub oneByOne {
+  my $data = shift;
+
+  return $1 if $data =~ m/^\@\n([^\@]+)$/m;
 }
 
-sub JOURNAL {
-    shift(@_);
-	s/\.$//;
-    if (s/^([^,]+),//)  { print "\tjournal = {$1},\n"; }  
-    if (s/vol[^ ]+ (\d+),//i)  { print "\tvolume = {$1},\n"; }
- 	if (s/pp[^\d]+([^,]+),//)  { print "\tpages = {$1},\n"; }
-	if (s/([1-2]\d\d\d)$//)  { print "\tyear = {$1},\n"; }
-	
-	print "reste =$_\n";
-    
+sub extract {
+  my $ref = shift;
+
+  my @lines = split /^/, $ref;
+
+  my $hash = {
+              'authors' => splitAuthors($lines[0]),
+              'title' => $lines[1],
+              'journal' => getJournal($lines[2]),
+             };
+
+
+  return $hash;
+}
+
+sub splitAuthors {
+  return 'a';
+}
+
+sub getJournal {
+  return 'b';
 }
