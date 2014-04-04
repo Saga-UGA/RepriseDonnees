@@ -1,0 +1,21 @@
+{% INCLUDE header.tt.bib %}
+
+@article{{% key %},
+    title="{% title %}",
+    author="{% PROCESS authors %}",
+    journal="{% journal %}",
+    volume="{% volume %}",
+    pages="{% pages %}",
+    date="{% date %}",
+    rest="{% rest %}",
+}
+
+{% BLOCK authors %}
+{% FOREACH author IN authors %}
+  {%- IF !loop.last %}
+    {%- author.lastname %}, {% author.givenname %} AND 
+  {%- ELSE %}
+    {%- author.lastname %}, {% author.givenname %} 
+  {%- END -%}
+{% END %}
+{% END %}
