@@ -1,0 +1,1763 @@
+﻿
+
+
+
+
+
+
+
+Campagne d’Evaluation 2011-2014
+
+Unité de Recherche :
+
+LABORATOIRE RHEOLOGIE ET PROCEDES
+UMR 5520
+
+
+Section 3 
+
+Liste des Publications et Productions
+
+
+
+4/02/14
+
+	SOMMAIRE	
+												Pages
+
+ACL :	 Articles dans des revues internationales ou nationales avec comité de lecture répertoriées par l’AERES ou dans les bases de données internationales (ISI Web of Knowledge, Pub Med…).  
+3
+ACLN :	 Articles dans des revues avec comité de lecture non répertoriées dans des bases de  données internationales.
+20
+ASCL :	Articles dans des revues sans comité de lecture. 
+21
+INV :	Conférences données à l’invitation du Comité d’organisation dans un congrès national ou international.
+22
+ACTI :	Communications avec actes dans un congrès international. 
+23
+ACTN :	Communications avec actes dans un congrès national.
+30
+COM :	Communications orales sans actes dans un congrès international ou national.
+36
+AFF :	Communications par affiche dans un congrès international ou national.
+47
+OS :	Ouvrages scientifiques (ou chapitres de ces ouvrages). 
+51
+OV :     Ouvrages de vulgarisation (ou chapitres de ces ouvrages). 
+52
+TH :      Thèses soutenues
+53
+VB :      Valorisation et Brevets (nationaux internationaux)
+55
+DO :	Directions d’ouvrages ou de revues.
+
+AP :	Autres productions : bases de données, logiciels enregistrés, traductions, comptes  rendus d’ouvrages, rapports de fouilles, guides techniques, catalogues d’exposition,  rapports intermédiaires de grands projets internationaux
+
+AP-publi : Autres publications
+56
+AP- RP :   Rapports périodiques et de fin de Contrat
+57
+AP-FC :    Formation continue
+58
+AP-S1 :    Séminaires organisés par le laboratoire avec intervenants internes
+59
+AP-S2 :    Séminaires organisés par le laboratoire avec intervenants extérieurs 
+60
+AP-M :     Rapports de Masters                                                                                                          
+63
+AP-St :    Rapports de stages
+66
+AP-HDR : Habilitation à diriger des thèses
+71
+AP-D :    Distinctions
+71
+AP-E :    Expertises : Comité scientifique, Comité AERES, Comité ANR. Rapporteurs (articles, thèses, HDR), industrielle.
+71
+
+ACL :	Articles dans des revues internationales ou nationales avec comité de lecture répertoriées par l’AERES ou dans les bases de données internationales (ISI Web of Knowledge, Pub Med…). 
+
+
+ACL05.1
+F. SAINT-MICHEL, F. PIGNON, A. MAGNIN
+
+Rheometric properties of micron-sized CaC03, suspensions stabilized by a physical polyol/silica gel for polyurethane foams.
+
+Rheol. Acta, 44(6), pp. 644-653, 2005.
+
+ACL05.2
+F. SAVREUX, P. JAY, A. MAGNIN
+
+Flow normal to a flat plate of a viscoplastic fluid with inertia effects.
+
+AIChE J., Vol. 51, Issue 3, pp. 750-758, Mars 2005.
+
+ACL05.3
+F. BOSSARD, C. TSITSILIANIS, S.N. YANNOPOULOS, G. PETEKIDIS, V. SFIKA
+
+A novel thermothickening phenomenon exhibited by a triblock polyampholyte in aqueous salt-free solutions.
+
+Macromolecule, 38, 2883-2888, 2005.
+
+ACL05.4
+K. CHIBA, A. AMMAR, F. CHINESTA
+
+On the fiber orientation in steady recirculating flows involving short fibers suspensions.
+
+Rheol. Acta, Volume 44, N° 4, April, pp.406-417, 2005.
+
+ACL05.5
+A. AMMAR, J.R. CLERMONT
+
+A finite-element approach in stream-tube method for solving fluid and solid mechanics problems.
+
+Mech. Res. Commun., 32, pp 65-73, 2005.
+
+ACL05.6
+L. JOSSIC, A. MAGNIN
+
+Structuring of gelled suspensions flowing through a sudden three dimensional expansion.
+
+J. Non-Newton Fluid Mech., Vol. 127, Issues 2-3, pp. 201-212, May 2005.
+
+ACL05.7
+C. METIVIER, C. NOUAR, J.P. BRANCHER
+
+Linear stability involving the Bingham model when the yield stress approaches zero.
+
+Phys. Fluids 17, 104106, 2005.
+
+ACL05.8
+C. BARAVIAN, F. CATON, J. DILLET, J. MOUGEL
+
+Steady light transport under flow : characterization of evolving dense random media.
+
+Phys. Rev. E 71, 066603. IF : 2.484, 2005.
+
+ACL05.9
+E. SANTANACH CARRERAS, N. EL KISSI, J.M. PIAU
+
+Block copolymer extrusion distortion. Exit delayed transversal primary cracks and longitudinal secondary cracks. Extrudate splitting and con tinuous peeling.
+
+J. Non-Newton Fluid. Mech., 2005, 131, pp. 1-21, 2005.
+
+ACL05.10
+A. KHALIFEH, J.R. CLERMONT
+
+Numerical simulations of non-isothermal three-dimensional flows in an extruder by a finite-volume method.
+
+J. Non-Newton Fluid. Mech., Vol. 126, Issue 2, 20 February pp. 7-22, 2005.
+
+ACL05.11
+D. GRECOV, J.R. CLERMONT
+
+Numerical simulations of non-newtonian flows between eccentric cylinders by domain decomposition and stream-tube method..
+
+J. Non-Newton Fluid. Mech., Volume 126, pp. 175-185, 2005.
+
+ACL05.12
+A. KHALIFEH, J.R. CLERMONT
+
+Courbes caractéristiques de debit-pression d’une extrudeuse monovis pour des fluids non-newtoniens par des simulations numériques tridimensionnelles.
+
+Cahiers de Rhéologie, Vol. 18, pp. 44-50, 2005.
+
+ACL05.13
+H. BOUHAMED, S. BOUFI, A. MAGNIN
+
+Alumina interaction with AMPS-PEG random copolymer II. Stability and rheological behavior.
+
+Colloids Surfaces A- Physicochem. Eng. Asp. 253 p. 145-153, 2005.
+
+ACL05.14
+L.W. SCHARTZ, D. ROUX, J.J. COOPER-WHITE
+
+On the shapes of droplets that are sliding on a vertical wall.
+
+Physica D 209, pp. 236-244, 2005.
+
+
+
+ACL05.15
+J.M. PIAU, K. DEBIANE
+
+Consistometers rheometry of power-law viscous fluids.
+
+J. Non-Newton Fluid. Mech., 127, pp. 213-224, 2005.
+
+ACL05.16
+J.M. PIAU, M. PIAU
+
+Letter of the Editor : Comment on “Origin of concentric cylinder viscometry” (J. Rheol. 49, 807-818, 2005). The relevance of the early days of viscosity, slip at the wall, and stability in concentric cylinder viscometry.
+
+J. Rheol. 49(6), pp. 1539-1550, November/December, 2005.
+
+ACL05.17
+J.M. PIAU, RAVILLY G., VERDIER C.
+
+Peeling of polydimethylsiloxane adhesives at low velocities : Cohesive failure.
+
+J. Polym. Sci. Pt B – Polym. Phys Jan 15, 43(2), 145-157, 2005.
+
+ACL05.18
+M. PIAU, J.M. PIAU
+
+Plane couette flow of viscoplastic materials along a slippery vibrating wall.
+
+J. Non-Newton Fluid. Mech., Jan. 10, 125(1), 71-85, 2005.
+
+ACL05.19
+J.M. PIAU
+
+Axisymmetrix slump and spreading of cohesive plastic soft materials : a yield stress measurement by consisto-rheometry.
+
+J. Rheol. 49(6), 1253-1276, 2005.
+
+ACL05.20
+J.B. MADELINE, M. MEIRELES, J. PERSELLO, C. MARTIN, R. BOTET, R. SCHWEINS, B. CABANE
+
+From colloidal dispersions to colloidal pastes through solid/liquid separation processes.
+
+Pure Appl.Chem., Vol. 77, n°8, 2005.
+
+ACL05.21
+P. HABDAS, J.R. DE BRUYN
+
+Dynamics of defects and traveling waves in an interfacial finger pattern.
+
+Physica D 200, 273, 2005.
+
+ACL05.22
+N. P. CHAFE, J.R. DE BRUYN
+
+Drag and relaxation in a bentonite clay suspension.
+
+J. Non-Newton Fluid. Mech., Nov 30, 131(1-3), 44-52, 2005.
+
+ACL05.23
+C. IOJOUI, M. MARECHAL, F. CHABERT, J.Y. SANCHEZ
+
+Mastering sulfonation of aromatic polysulfones : crucial for membranes for fuel cell applications.
+
+Fuel Cells, (3), 344-354, 2005.
+
+ACL06.1
+E. SANTANACH CARRERAS, J.M. PIAU, N. EL KISSI, F. PIGNON, P. PANINE
+
+A new capillary rheometer allowing for small-angle x-ray scattering experiments inside the die. Application to the extrusion of block copolymers, their macroscopic defects, and their structure.
+
+J. Rheol. 50(6), pp.803-829, November/December, 2006.
+
+ACL06.2
+T. NARAYANAN, M. SZTUCKI, G. BELINA, F. PIGNON
+
+Microstructure and rheology near an attractive colloidal glass transition.
+
+Phys. Rev. Lett., Vol. 96, 258-301, 2006.
+
+ACL06.3
+M. SZTUCKI, T. NARAYANAN, G. BELINA, A. MOUSSAID, F. PIGNON, H. HOEKSTRA
+
+Kinetic arrest and glass-glass transition in short-ranged attractive colloids.
+
+Phys. Rev. E., Vol. 74, pp.051504, 2006.
+
+ACL06.4
+C. MARTIN, V. LELIEVRE, F. PIGNON, A. MAGNIN, M. MEIRELES, B. CABANE
+
+Osmotic compression and expansion of highly ordered clay dispersions.
+
+Langmuir. Vol. 22, (9), 4065-4075, 2006.
+
+ACL06.5
+F. BOSSARD, T. AUBRY, G. GOTZAMANIS, C. TSITSILIANIS
+
+PH-Tunable rheological properties of a telechelic cationic polyelectrolyt reversible hydrogel.
+
+Soft Matter, 2, 510-516, 2006.
+
+ACL06.6
+A. AMMAR, D. RYCKELYNCK, F. CHINESTA, R. KEUNINGS
+
+On the reduction of kinetic theory models related to finetely extensible dumbells.
+
+J. Non-Newton Fluid. Mech., 134, pp. 136-147, 2006.
+
+ACL06.7
+A. AMMAR, B. MOKDAD, F. CHINESTA, R. KEUNINGS
+
+A new family of solvers for some classes of multidimensional partial differential equations encountered in kinetic theory modeling of complex fluids.
+
+J. Non-Newton Fluid. Mech., 139, pp. 153-176, 2006.
+
+ACL06.8
+D. RYCKELYNCK, F. CHINESTA, E. CUETO, A. AMMAR
+
+On the “A priori” model reduction : overview and recent developments 
+
+Archives of computational methods in engineering, state of the art reviews, 13/1, 91-128, 2006.
+
+ACL06.9
+O. MERKAK, L. JOSSIC, A. MAGNIN
+
+Spheres and interactions between spheres moving at very low velocities in a yield stress fluid.
+
+J. Non-Newton Fluid. Mech., 133 (2-3), 99-108, 2006.
+
+ACL06.10
+F.CATON
+
+Circular couette flow of a viscoplastic fluid : stability analysis for different constitutive relations.
+
+J. Non-Newton Fluid. Mech., vol. 134, n° 1-3, pp. 148-154, 2006.
+
+ACL06.11
+J. DILLET, C. BARAVIAN, F. CATON
+
+Size determination by use of two-dimensional Mueller matrices backscattered by optically thick random media.
+
+Appl. Opt. 45 (19), pp. 4669-4678, 2006.
+
+ACL06.12
+J. MOUGEL, O. ALVAREZ, C. BARAVIAN, F. CATON, P. MARCHAL,
+M.J. STEBE, L. CHOPLIN
+
+Aging of an unstable who gel-emulsion with a non-ionic surfactant.
+
+Rheol. Acta 45 (5), pp. 455-560, 2006.
+
+ACL06.13
+E. SANTANACH CARRERAS, N. EL KISSI, J.M. PIAU, F. TOUSSAINT, S. NIGEN
+
+Pressure effects on viscosity and flow stability of polyethylene melts during extrusion.
+
+Rheol. Acta, 45, (3), pp.209-222, 2006.
+
+ACL06.14
+C. IOJOIU, F. CHABERT, M. MARECHAL, N. EL KISSI, J. GUINDET,
+JY. SANCHEZ
+
+From polymer chemistry to membrane elaboration. A global approach of fuel cell polymeric electrolytes.
+
+Journal Power Sources, 153 (2), 198-209, 2006.
+
+ACL06.15
+J.G. SPIRO, J. YANG, JIAN-XIN ZHANG, M.A. WINNIK, Y. RHARBI, JEFFREY D. VAVASOUR, M.D. WHITMORE, ROBERT JEROME.
+
+Experimental and theoretical investigation of the lamellar structure of a styrene-butyl methacrylate diblock copolymer by fluorescence resonance energy transfer (FRET), small-angle x-ray scattering (SAXS) and self-consistent field simulations.
+
+Macromolecules, 39, 7055, 2006.
+
+ACL06.16
+A. BOUHAMED, A. MAGNIN, S. BOUFI
+
+Alumina interaction with AMPS-MPEG random copolymers III. Effect of PEG segment length on adsorption, electrokinetic and rheological behaviour.
+
+J. Colloïd. Interf. Sci., Jun 1, 298(1), 238-247, 2006.
+
+ACL06.17
+J.M. PIAU
+
+Consistometry slump and spreading tests : Practical comments. (short communication)
+
+J. Non-Newton Fluid. Mech., 135, pp. 177-178, 2006.
+
+ACL06.18
+J.M. PIAU
+
+Capillary rheometry for polymer melts
+
+Rheol. Acta, Vol. 45 pp. 773-775, 2006.
+
+ACL06.19
+P. ATTANE
+
+Response to “Comment on “Breakup length of forced liquid jet””
+
+Phys. Fluids, 18, pp. 1-11, 2006.
+
+ACL06.20
+A. PEREZ-LEPE, F.J. MARTINEZ-BOZA, P. ATTANE, C. GALLEGOS
+
+Destabilization mechanism of polyethylene-modified bitumen.
+
+J. Appl. Polym. Sci., Vol. 100, pp. 260-267, 2006.
+
+ACL06.21
+F. GIRARD, P. ATTANE, V. MORIN
+
+A new analytical model for impact and spreading of one drop : application to inkjet printing.
+
+Tappi J., Dec. 5 (12), 24-32, 2006.
+
+ACL06.22
+J.R. DE BRUYN
+
+Age dependence of the drag force in an aqueous foam.
+
+Rheol. Acta, 45, pp. 803-811, 2006.
+
+
+ACL07.1
+S. MARCHIN, J.L. PUTAUX, F. PIGNON, J. LEONIL
+
+Effects of the environmental factors on the casein micelle structure studied by cryo transmission electron microscopy and small-angle x-ray scattering/ultrasmall-angle x-ray scattering.
+
+J. Chem. Phys. , 126, 045101, 2007.
+
+ACL07.2
+M. CASTELAIN, F. PIGNON, J.M. PIAU, A. MAGNIN, M. MERCIER-BONIN,
+P. SCHMITZ
+
+Removal forces and adhesion properties of Saccharomyces cerevisiae on glass substrates probed by optical tweezer
+
+J. Chem. Phys., Vol. 127, pp. 135104-1 - 135104-14, 2007.
+
+ACL07.3
+F. SAVREUX, P. JAY AND  A. MAGNIN.
+
+ «Viscoplastic fluids mixing in a rotating tank» .
+
+ Cheml Eng. Sci.,  62, 2290-2301, janvier 2007.
+
+ACL07.4
+F. BOSSARD, M. MOAN, T. AUBRY
+
+Linear and non-linear Viscoelastic Behavior of Very Concentrated plate-like Kaoline Suspensions, 
+
+J. Rheol. 51, 1253-1270 ,2007.
+
+M. SOTIROPOULOU, F. BOSSARD, E. BALNOIS, J. OBERDISSE, G. STAIKOS
+ACL07.5
+
+
+Characterization of the Core-Shell Nanoparticles Formed as Soluble at low pH Hydrogen bonding Interpolymer Complexes at low pH.
+
+ Langmuir, 23, 11252 –11258, 2007.
+
+ACL07.6
+A. AMMAR, B. MOKDAD, F. CHINESTA, R. KEUNINGS
+
+A new family of solvers for some classes of multidimensional partial differential equations encountered in kinetic theory modeling of complex fluids. Part II – Transient simulation using space-time separated representations.
+
+J. Non-Newton Fluid. Mech., 144, pp. 98-121, 2007.
+
+ACL07.7
+F. CHINESTA, A. AMMAR, A. FALCO, M. LASO
+
+On the reduction of stochastic kinetic theory models of complex fluids.
+
+Model. Simul. Mater.Sci.Eng., 15, pp. 639-652, 2007.
+
+ACL07.8
+B. MOKDAD, E. PRULIERE, A. AMMAR, F. CHINESTA
+
+On the simulation of kinetic theory models of complex fluids using the fokker-planck approach.
+
+Appl. Rheol. , 17/2, 26494, 2007.
+
+ACL07.9
+C. BARAVIAN, F. CATON, J. DILLET, G. TOUSSAINT,  P. FLAUD
+
+ Incoherent light transport in an anisotropic random medium: A probe of human erythrocyte   aggregation and deformation
+
+Phys. Rev. E 76, 011409, 2007.
+
+ACL07.10
+A. PARKER, C. BARAVIAN, F. CATON, J. DILLET, J. MOUGEL
+
+Fast optical sizing without dilution.
+
+Food Hydrocolloids, Volume 21, Issues 5-6, pp. 831-837, 2007.
+
+ACL07.11
+C. BARAVIAN, F. CATON, G. BENBEKACEM
+
+Unsteady rheometry : can we characterize weak gels with a controlled stress rheometer?
+
+Rheol. Acta, Volume 46, n°5, pp. 577-581, 2007.
+
+ACL07.12
+F. CATON, C. BARAVIAN, J. MOUGEL
+
+The influence of the microscopic characteristics of a random medium on incoherent light transport.
+
+Opt. Express. Vol. 15, n°6, pp 2847-2872, 2007.
+
+
+
+ACL07.13
+C. BARAVIAN, J. MOUGEL, A. DURAND, F. CATON
+
+Characterisation of dynamical emulsification process in concentrated conditions.
+
+AIChE J., Volume 53, n°8, pp. 1994-2000, 2007.
+
+ACL07.14
+J.Y. SANCHEZ, F. CHABERT, C. IOJOIU, J. SALOMON, N. EL KISSI, Y. PIFFARD,
+M. MARECHAL, H. GALIANO, R. MERCIER
+
+Extrusion : an environmentally friendly process for PEMFC membrane elaboration.
+
+Electrochim. Acta, Vol. 53, Issue 4, 2007, 1584-1595, 2007.
+
+ACL07.15
+A. KHALIFEH, J.R. CLERMONT
+
+Characteristic curves based on 3D Non-isothermal flow computations in single-screw extruder for non-newtonian fluids.
+
+Int. Polym. Process. , Hanser, XXII, 4, pp. 324-333, 2007.
+
+ACL07.16
+ H. BOUHAMED,  BOUFI S., A. MAGNIN
+
+Dispersion of alumina suspension using comb-like and diblock copolymers produced by RAFT polymerization of AMPS and MPEG
+
+ J. Colloid Interf. Sci. , Aug. 15, 312 (2) : 279-29, 2007.
+
+ACL07.17
+E. LASSEUGUETTE, D. ROUX, Y.NISHIYAMA
+
+Rheological properties of microfibrillar suspension of TEMPO oxidized pulp
+
+Cellulose 15 (3), pp. 425-433, 2007.
+
+ACL07.18
+J.M. PIAU
+
+Carbopol gels : Elastoviscoplastic and slippery glasses made of individual swollen sponges. Meso- and macroscopic properties, constitutive equations and scaling laws.
+
+J. Non-Newton Fluid. Mech., 144, p.1-29, 2007.
+
+ACL07.19
+J.M. PIAU, E. SANTANACH CARRERAS, D. SUAREZ DABO
+
+Continuous peeling extrusion of SEBS block copolymers.
+
+J. Non-Newton Fluid. Mech., 147, pp. 139-148, 2007.
+
+ACL07.20
+M. PIAU, J.M. PIAU
+
+Wall vibrations and yield stress-shear thinning coupling (small vibration inertia)
+
+J. Non-Newton Fluid. Mech.,  144, pp. 59-72, 2007.
+
+ACL07.21
+P. ATTANE, F. GIRARD, V. MORIN
+
+An energy balance approach of the dynamics of drop impact on a solid surface.
+Phys. Fluids, Jan. 19 (1) : pp. 23-39, 2007.
+
+ACL07.22
+C. VERDIER, G. RAVILLY
+
+Peeling of Polydimethysiloxane adhesives : the case of adhesive failure, J. Polym. Sci. Part B: Polym. Phys, 45(16), 2113-2122 (2007)
+
+ACL08.1
+J. DE BRUYN, F. PIGNON, E. TSABET, A. MAGNIN
+
+Micron scale origin of the shear induced structure in Laponite-poly(ethylene oxide) dispersions.
+
+Rheol. Acta. Vol. 47(1), 63-73, 2008.
+
+ACL08.2
+M. CASTELAIN, F. PIGNON, J.M. PIAU, A. MAGNIN
+
+The initial single yeast cell adhesion on glass via optical trapping and Derjaguin-Landau-Verwey-Overbeek predictions.
+
+J. Chem. Phys., Vol. 128. (13), 135101, 2008.
+
+ACL08.3
+C. DAVID, F. PIGNON, T. NARAYANAN, M. SZTUCKI, G. GESAN-GUIZIOU,
+A. MAGNIN
+
+Spatial and temporal in-situ evolution of concentration profile during casein micelle ultrafiltration probed by SAXS.
+
+Langmuir. 24, pp. 4523-4529, 2008.
+
+
+ACL08.4
+D.L. TOKPAVI, A. MAGNIN, P. JAY
+
+Very slow flow of Bingham viscoplastic fluid around a circular cylinder.
+
+J. Non-Newton Fluid. Mech.,  154, pp. 65-76, 2008.
+
+ACL08.5
+F. BOSSARD, I. PILLIN, T. AUBRY, J.Y. GROHENS
+
+Rheological characterization of starch derivatives/polycaprolactone blends processed by reactive extrusion.
+
+Polym. Eng. Sci. , 48, 1862-1870, 2008.
+
+ACL08.6
+F. CHINESTA, A. AMMAR, F. LEMARCHAND, P. BEAUCHENE, F. BOUST
+
+Alleviating Mesh Constraints : Model reduction, parallel time integration and high resolution homogenization. 
+
+Comput. Meth. Appl. Mech. Eng. , 197/5, 400-413, doi:10.1016/j.cma.2007.07.22, 2008.
+
+ACL08.7
+M. KROGER, A. AMMAR, F. CHINESTA
+
+Consistent closure schemes for statistical models of anisotropic fluids.
+
+J. Non-Newton Fluid. Mech., 149, pp. 40-55, 2008.
+
+ACL08.8
+A. MA, F. CHINESTA, A. AMMAR, M. MACKLEY
+
+Rheological modelling of untreated carbon nanotube suspensions in simple steady shear flows.
+
+J. Rheol., 52/6, 1311-1330. 2008.
+
+ACL08.9
+A. AMMAR, F. CHINESTA, P. JOYOT
+
+The nanometric and micrometric scales of the structure and mechanics of materials revisted : An introduction to the challenges of fully deterministic numerical descriptions. 
+
+Int. J. Musticale Com. Eng., 6/3, 191-213. 2008.
+
+ACL08.10
+O. MERKAK, L. JOSSIC, A. MAGNIN
+
+Dynamics of particles suspended in a yield stress fluid flowing in a pipe.
+
+AIChE J., Mai, Vol. 54, n° 5, pp. 1129-1138, 2008.
+
+ACL08.11
+C. METIVIER, C. NOUAR
+
+On linear stability of Rayleigh-Benard Poiseuille flow of viscoplastic fluids.
+
+Phys. Fluids 20, 104101. 2008.
+
+ACL08.12
+F. CATON, C. BARAVIAN
+
+Plastic behaviour of some yield stress fluids : from creep to long time yield.
+
+Rheol. Acta, 47, n° 5, pp. 601-607, 2008.
+
+ACL08.13
+C. IOJOIU, M. MARTINEZ, M. HANNA, Y. MOLMERET, L. COINTREAUX,
+J.C. LEPRETRE, N. EL KISSI, J. GUINDET, P. JUDEINSTEIN, J.Y. SANCHEZ
+
+Pils-based nafion membranes : a route to high-temperature PEFMCs dedicated to electric and hybrid behicles.
+
+Polym. Adv. Technol., 19 : 1406-1414, 2008.
+
+ACL08.14
+D. GRECOV, J.R. CLERMONT
+
+Numerical simulations of non-stationnary flows of non-newtonian fluids between concentric and eccentric cylinders by stream-tube method and domain decomposition.
+
+Rheol. Acta, 47, pp. 609-620, 2008.
+
+ACL08.15
+Y. RHARBI
+
+Reduction of the glass transition temperature of confined polystyrene nanoparticles in nanoblends.
+
+Phys. Review E, 77, 3, 031806, 2008.
+
+ACL08.16
+Q. NAWAZ, Y. RHARBI
+
+Effects of the nanomechanical properties of polymer nanoparticles on crack patterns during drying of colloidal suspensions.
+
+Macromolecule, 41, pp. 5928-5933, 2008.
+
+ACL09.1
+V.A. FERNANDEZ, N. TEPALE, J.G. ALVAREZ, J.H. PEREZ-LOPEZ,
+E.R. MACIAS, F. BAUTISTA, F. PIGNON, Y. RHARBI, R. GAMEZ-CORRALES,
+O. MANERO, J.E. PUIG, J.F.A.  SOLTERO
+
+Rheology of the pluronic P103/water system in the semidilute regime : evidence of non-equilibrium critical behavior.
+
+J. Colloid Int. Sci., 336, 842-849, 2009.
+
+ACL09.2
+F. PIGNON, A. MAGNIN, J.M. PIAU, G. BELINA, P. PANINE
+
+Structure and orientation dynamics of sepiolite fibers (poly-etylene oxide) acqueous suspensions under extensional and shear flow ; probed by in-situ SAXS.
+
+Rheol. Acta, 48, 563-578, 2009. DOI : 10.1007/s00397-009-0355-y.
+
+ACL09.3
+D.L. TOKPAVI, P. JAY, A. MAGNIN
+
+Interaction between two circular cylinders in slow flow of Bingham viscoplastic fluid.
+
+J. Non-Newton Fluid. Mech., Volume 157, Issue 3, pp. 175-187, April 2009.                                                                                             
+
+ACL09.4
+A. AMMAR, E. PRULIERE, F. CHINESTA, M. LASO
+
+Reduced numerical modelling of flows involving liquid-crystalline polymers.
+
+J. Non-Newton Fluid. Mech., Volume 160, Issues 2-3, pages 140-156, Doi : 10.1016/j.jnnfm.2009.03.013,  August 2009.
+
+ACL09.5
+E. PRULIERE, A. AMMAR, F. CHINESTA, N. EL KISSI
+
+Recirculating flows involving short fiber suspensions : numerical difficulties and efficient advanced micro-macro solvers.
+
+Archives of Computational  Methods in Engineering. Volume 16, Issue 1, pp. 1-30, Doi : 10.1007/s11831-008-9027-9, Mars 2009.
+
+ACL09.6
+C. METIVIER, I.A. FRIGAARD, C. NOUAR
+
+Non linear stability of the Bingham Rayleigh-Bénard Poiseuille flow.
+
+J. Non-Newton Fluid. Mech., Volume 158, Issues 1-3, pp. 127-131, May 2009. 2009.
+
+ACL09.7
+Y. AUFFRET, D. ROUX, N. EL KISSI, F. CATON, I. PIGNOT-PAINTRAND,  D.E. DUNSTAN
+
+Aging and yielding in dense AOT/Iso-octacne/Water Emulsions.
+
+Euro Phys. J., J.E., 29, pp. 51-60, 2009.
+
+ACL09.8
+Y. AUFFRET, D. ROUX, N. EL KISSI, D.E. DUNSTAN, I. PIGNOT-PAINTRAND
+
+Stress and strain controlled rheometry on a concentrated lyotropic lamellar phase of AOT/Water/Iso-Octane.
+
+Rheol. Acta, 48, pp. 423-432, 2009.
+
+ACL09.9
+N. BASSOU, Y. RHARBI
+
+The role of Bénard-Marangoni instabilities during solvent evaporation in polymer surface corrugations. 
+
+Langmuir, 25, pp. 624-632, 2009.
+
+ACL09.10
+V.V.A. FERNANDEZ, J.F.A. SOLTERO, J.E. PUIG, Y. RHARBI
+
+Temporal evolution of the size distribution during exchange kinetics of pluronic P103 at low temperatures
+
+J. Phys. Chem., 113, (10), 3015, 2009.
+
+ACL09.11
+M. YOUSFI, L. POCAR, P. LINDNER, F. BOUE, Y. RHARBI
+
+A novel method for studying the dynamics of polymers confined in spherical nanoparticles in nanoblends.
+
+Macromolecule, Volume 42, Issue 6, pp. 2190-2197, 2009.
+
+ACL09.12
+J.G. ALVAREZ-RAMIREZ, V.V.A. FERNANDEZ, E.R. MACIAS, Y. RHARBI,
+P. TABOADA, R. GAMEZ-CORRALES, J.E. PUIG, J.F.A SOLTERO
+
+Phase behavior of the Pluronic P103/water system in the dilute and semi-dilute regimes.
+
+J. Colloid Int. Sci., 333, 655, 2009.
+
+ACL09.13
+H. BOUHAMED, S. BOUFI, A. MAGNIN
+
+Alumina interaction with AMPS-MPEG copolymers produced by RAFT polymerization : stability and rheological behavior”.
+
+J. Colloid Int. Sci., 333 (1), pp. 209-220, 2009.
+
+ACL09.14
+J.R. CLERMONT, D. GRECOV
+
+A theoretical analysis of unsteady incomrpessible flows for time-dependent constitutive equations based on domain transformations.
+
+Int.J. Non-Linear Mech., 44, pp. 709-715, 2009.
+
+ACL09.15
+A. AMMAR
+
+Reduced numerical modelling of flows involving liquid-crystalline polymers 
+
+J. Non-Newton Fluid. Mech., 160, pp. 140-156. 10.1016/j.jnnfm.2009.03.013. 2009.
+
+
+
+
+
+ACL09.16
+D.L. TOKPAVI, P. JAY, A. MAGNIN, L. JOSSIC
+
+Experimental study of the very slow flow of a yield stress fluid around a cylinder.
+
+J. Non-Newton Fluid. Mech., Volume 164, Issue 1-3, pages 35-44, 2009.
+
+ACL09.17
+L. JOSSIC, P. LEFEVRE, C. DE LOUBENS, A. MAGNIN, C. CORRE
+
+The fluid mechanics of shear-thinning tear substitute.
+
+ J. Non-Newton Fluid. Mech., Volume 161, Issue : 1-3, pages 1-9, Septembre 2009.
+
+ACL09.18
+L. JOSSIC, A. MAGNIN
+
+Cylinders and interactions between cylinders moving at very low velocities in a yield stress fluid.
+
+ J. Non-Newton Fluid. Mech., 164, pp. 9-16, 2009.
+
+ACL09.19
+O. MERKAK, L. JOSSIC, A. MAGNIN
+
+Migration and sedimentation of suspensions in a yield stress fluid flowing in a horizontal cylindrical pipe.
+
+ AIChE J., Volume 55, numéro 10, pages 2515-2525, Octobre 2009.
+
+ACL09.20
+C. METIVIER,  C. NOUAR
+
+Linear stability of the Rayleigh-Bénard Poiseuille flow for thermodependent viscoplastic fluids.
+
+J. Non-Newton Fluid. Mech., 163, pp. 1-8, 2009.
+
+ACL09.21
+M. CHATENET, M.B. MOLINA-CONCHA, N. EL KISSI, G. PARROUR, J.P. DIARD
+
+Direct rotating ring-disk measurement of the sodium borohydride diffusion coefficient in sodium hydroxide solutions.
+
+Electrochim. Acta. In press, Available online 20 March 2009.
+
+ACL09.22
+C. COMBES, S . TADIER, H. GALLIARD, S. GIROD-FULLANA, C. CHARVILLAT, C. REY, R. AUZELY-VELTY, N. EL KISSI
+
+Rheological properties of calcium carbonate self-setting injectable paste.
+
+ Acta Biomaterialia. Soumis 2009.
+
+ACL09.23
+C. DE LOUBENS, A. MAGNIN, L. JOSSIC, E. ALBERTINI, F. CHIAMBARETTA
+
+Rheological properties of tean substituts and application.
+
+J. Europ. Pharm. Biopharm., Soumis, 2009.
+
+ACL09.24
+A. KHALIFEH, J.R. CLERMONT
+
+Non-isothermal two- and three-dimensional flow simulations of inelastic and viscoelastic fluids by a finite-volume method.
+
+International Journal for Numerical Methods in Fluids. Sous presse 2009.
+
+ACL09.25
+F. PIGNON, A. MAGNIN, J.M. PIAU, G. BELINA, P. PANINE
+
+Structure and orientation dynamics of sepiolite fibers – poly(ethylene oxide) aqueous suspensions under extensional and shear flow, probed by in-situ SAXS.
+
+Rheologica Acta, DOI : 10.1007/s00397-009-0355-y (2009).
+
+ACL09.26
+H. BOUHAMED, S. BOUFI, A. MAGNIN
+
+Alumina interaction with AMPS-MPEG copolymers produced by RAFT polymerization : stability and rheological behaviour.
+
+Journal of colloid and interface science, 333 (1), pp. 209-220, 2009.
+
+ACL09.27
+F. MENDEZ-ARRIAGA, R. TORRES-PALMA, C. PETRIER, C. PULGARIN
+
+Mineralization enhancement of a recalcitrant pharmaceutical pollutant in water by advanced oxidation hybrid processes.
+
+Water Research, 43, 16, pp. 3984-3991, 2009.
+
+ACL09.28
+R. TORRES-PALMA, R. MOSTEO, C. PETRIER, C. PULGARIN
+
+Experimental design approach to the optimisation of ultrasonic degradation of alachlor and enhancement of treatment water biodegradability.
+
+Ultrasonics Sonochemistry, 16, 3, pp. 425-430, 2009.
+
+
+
+
+
+ACL09.29
+A. ABDELHAY, J.P. MAGNIN, N. GONDREXON, S. BAUP, J.C. WILLISON
+
+Adaptation of a Mycobacterium strain to phenanthrene degradation in a biphasic culture : system : influence on interfacial area and droplet size.
+
+Biotechnology Letters, 31(1), pp. 57-63, 2009.
+
+ACL09.30
+D.C. VADILLO, A. SOUCEMARIANADIN, C. DELATRE, D.C.D ROUX
+
+Dynamic contact angle effects into the maximum drop impact spreading on solid surfaces.
+
+Physics of Fluids, 21, 122002-1, 2009.
+
+ACL10.1
+G. BENBELKACEM-BENMOUFFOK, F. CATON, C. BARAVIAN,  S. SKALI-LAMI
+
+Non-Linear viscoelasticity and temporal behaviour of typical yield stress fluids  : Carbopol, Xanthan and  Ketchup.
+
+Rheol. Acta, 49, pp. 305-314, 2010.
+
+ACL10.2
+M. GRMELA, F. CHINESTA, A. AMMAR
+
+Mesoscopic tube model of fluids composed of worm-like micelles.
+
+Rheol. Acta, Volume 49, Issue 5,  Special Issu : SI, pp. 495-506, Doi : 10.1007/s00397-009-0428-y, Mai 2010.
+
+ACL10.3
+D. GONZALEZ, A. AMMAR, F. CHINESTA, al.
+
+Recent advances on the use of separated representations.
+
+International Journal of Numerical Methods in Engineering, Volume 81, Issue 5, pp. 637-659, Doi : 10.1002/nme.2710, 29 Janvier 2010.
+
+ACL10.4
+A. AMMAR
+
+Lattice boltzmann method  for polymer kinetic theory. 
+
+J. Non-Newton Fluid. Mech., Vol. 165, Issue 19-20, October 2010, pp. 1082-1092. http://dx.doi.org/10.1016/j.jnnfm.2010.05.006. 2010.
+
+ACL10.5
+C. METIVIER, C. NOUAR, J.P. BRANCHER
+
+Weakly nonlinear dynamics of thermoconvective instability involving viscoplastic fluids. 
+
+J. Fluid. Mech., Vol. 660, pp. 316-353. http://journals.Cambridge.org/repoA79FOnBj) Doi : 10.1017/S0022112010002788, 2010.
+
+ACL10.6
+B. MOKDAD, A. AMMAR, M. NORMANDIN, F. CHINESTA, J.R. CLERMONT
+
+A fully deterministic micro-macro simulation of complex flows involving reversible network fluid models.
+
+Mathematics and computers in simulation. doi:10.1016/j.matcom.2010.03.002, Volume 80, Issue 9, pp. 1936-1961,  May 2010.
+
+ACL10.7
+O. PRAS, D. CHAUSSY, O. STEPHAN, Y. RHARBI, P. PIETTE, D. BENEVENTI
+
+Photoluminescence of 2,7-Poly(9,9-dialkylfluorene-co-fluorenone) Nanoparticles : Effect of particle size and Inert polymer addition.
+
+Langmuir, 26 (18), pp. 14437-14442. Doi : 10.1021/la1011742, August 2010.
+
+ACL10.8
+F. ALLOIN, A. D’APREA, A. DUFRESNE, N. EL KISSI, F. BOSSARD
+
+Nanocomposite polymer electrolyte based on whisker or microfibrils polyoxyethylene nanocomposites.
+
+Electrochimica Acta 55, pp. 5186-5194, 2010.
+
+ACL10.9
+F. BOSSARD, N. EL KISSI, A. D’APREA, F. ALLOIN, J.Y. SANCHEZ, A. DUFRESNE
+
+Influence of dispersion procedure on rheological properties of aqueous solutions of high molecular weight PEO.
+
+Rheologica Acta, 49, pp. 529-540, 2010
+
+ACL10.10
+A. AMMAR, M. NORMANDIN, F. DAIM, D. GONZALEZ, E. CUETO, F. CHINESTA
+
+Non incremental strategies based on separated representations : applications in computational rheology.
+
+Communications in Mathematical Sciences, Vol. 8, n°3, pp. 671-695, 2010.
+
+ACL10.11
+A. AMMAR, M. NORMANDIN, F. CHINESTA
+
+Solving parametric complex fluids models in rheometric flows.
+
+Journal of Non-Newtonian Fluid Mechanics, Volume 165, Issue 23-24,  pp. 1588-1601, Doi : 10.1016/j.jnnfm.2010.08.006, Décembre 2010.
+
+
+
+
+
+ACL10.12
+A. AMMAR, M. NORMANDIN, F. DAIM, D.  GONZALEZ, E. CUETO, F. CHINESTA
+
+Non incremental strategies based on separated. Representations : application in computationnal rheology.
+
+Communications in Mathematical Sciences. Volume 8, Issue 3. Special Issue : SI, pp. 671-695, Septembre 2010.
+
+ACL10.13
+F. CHINESTA, A. AMMAR, E. CUETO
+
+Proper generalized decomposition of multiscale models.
+
+International Journal for Numerical Methods in Engineering, Volume 83, Issue 8-9, Special Issue : SI, pp. 1114-1132, Doi : 10.1002/nme.2794, 20 Août 2010.
+
+ACL10.14
+A. AMMAR, F. CHINESTA, P. DIEZ, et al.
+
+An error estimator for separated representations of highly multidimensional models.
+
+Computer methods in applied mechanics and Engineering, Volume 199, Issue 25-28, pp. 1872-1880, Doi : 10.1016/j.cma.2010.02.012, 2010.
+
+ACL10.15
+S. MOSSAZ, P. JAY, A. MAGNIN, M. PANOUILLE, C. DE LOUBENS, I. SOUCHON, A. JUTEAU
+
+Measuring and predicting the spreading of dairy products in the mouth : sensory, instrumental and modelling approaches. 
+
+Food Hydrocolloids. Volume 24, Issue 8, pp. 681-688, 2010.
+
+ACL10.16
+S. MOSSAZ, P. JAY, A. MAGNIN
+
+Criteria for the appearance of recirculating and non-stationary regimes behind a cylinder in a viscoplastic fluid. 
+
+J. Non-Newtonian Fluid Mech. 165, pp. 1525-1535, 2010.
+
+ACL10.17
+A. MOURGUES, H. HENGL, M.P. BELLEVILLE, D. PAOLUCCI-JEANJEAN, J. SANCHEZ
+
+Membrane contactor with hydrophobic metallic membranes : 1 – Modeling of coupled mass and heat transfers. 
+
+Journal of Membrane Science, 2010.
+
+ACL10.18
+H. HENGL, A. MOURGUES, M.P. BELLEVILLE, D. PAOLUCCI-JEANJEAN, J. SANCHEZ
+
+Membrane contactor with hydrophobic metallic membranes : 2- Study of operating parameters. 
+
+Journal of Membrane Science, 2010.
+
+ACL10.19
+C. YEROMONAHOS, B. POLACK, F. CATON
+
+Nanostructure of the fibrim clot. 
+
+Biophys. J., Vol. 99, n°7, pp. 2018-2027, 2010.
+
+ACL10.20
+Y. RHARBI, M. YOUSFI, L. PORCAR, Q. NAWAZ
+
+Methods for probing the long range dynamic of confined polymer in nanoparticles using small angles neutrons scattering.
+
+Can. J. Chem. Vol. 88, 288 (in honor to M. A. Winnik), 2010.
+
+ACL10.21
+Q. NAWAZ, Y. RHARBI
+
+Various modes of void closure during dry sintering of close-packed nanoparticles.
+
+Langmuir, 26, 1226, 2010.
+
+ACL10.22
+A. SAIDIA, C. MARTIN, A. MAGNIN
+
+Influence of yield stress on the fluid droplet impact control.
+
+Journal of Non-newtonian, volume 165, pp. 11-12, June 2010.
+
+ACL10.23
+S. MOSSAZ, P. JAY, A. MAGNIN
+
+Criteria for the appearance of recirculating and non-stationary regimes behind a cylinder in a viscoplastic fluid.
+
+Journal of Non-Newtonian Fluid Mechanics, Accepté, A paraître, 2010.
+
+ACL10.24
+C. DE LOUBENS, A. MAGNIN, E. VERIN, M. DOYENNETTE, I.C. TRELEA, I. SOUCHON
+
+A lubrication analysis of pharyngeal peristalsis : application to flavour release.
+
+J. Theor Biol., 267 (3), pp. 300-311, 2010.
+
+ACL10.25
+M. CHIHA, O. HAMDAOUI, F. AHMDCHEKKAT, C. PETRIER
+
+Study on ultrasonically assisted emulsification and recovery of copper (II) from wastewater using an emulsion liquid membrane process.
+
+Ultrasonics Sonochemistry, 17, 2, pp. 318-325, 2010.
+
+ACL10.26
+C. PETRIER, R. TORRES-PALMA, E. COMBET, C. PULGARIN, S. BAUP
+
+Enhanced sonochemical degradation of bisphenol-A by bicarbonate ions.
+
+Ultrasonics Sonochemical, 17, 1, pp. 111-115, 2010.
+
+ACL10.27
+A.AL. BSOUL, J.P. MAGNIN, N. COMMENGES-BERNOLE, S. BAUP, N. GONDREXON, C. PETRIER
+
+Effectiveness of ultrasound for th destruction of Mycobacterium sp strain (6PY1).
+
+Ultrasonics Sonochemistry, 17, 1, pp. 106-110, 2010.
+
+ACL10.28
+S. MEROUANI, O. HAMDAOUI, F. SAOUDI, S. BAUP, C. PETRIER
+
+Influence of bicarbonate and of carbonate ions on sonochemical degradation of rhodamine B In aquous phase.
+
+Journal of Hazardous Materials, 175, 1-3, pp. 593-599, 2010.
+
+ACL10.29
+R. TORRES-PALMA, J. NIETO, E. COMBET, C. PETRIER, C. PULGARIN, 
+
+An innovative ultrasound Fe2+ and T02 photoassisted process for bisphenol-a miineralization.
+
+Water Research, 44, 7, pp. 2245-2252, 2010.
+
+ACL10.30
+M. CHIHA, O. HAMDAOUI, S. MEROUANI, C. PETRIER,
+
+Modeling of ultrasonic degradation of non-volatile organic compounds by Langmuir-type kinetics.
+
+Ultrasonics Sonochemistry, 17, 5, pp. 773-782, 2010.
+
+ACL10.31
+M. CHIHA, O. HAMDAOUI, S. BAUP, N. GONDREXON,  C. PETRIER,
+
+Effect of mineral and organic matrices on sonochemical degradation of 4- isopropylphenol at low concentrations.
+
+Separation Science and Technology, 45 (11), pp. 1587-1594, 2010.
+
+ACL10.32
+N. GONDREXON, Y. ROUSSELET, M. LEGAY, P. BOLDO, S. LEPERSON, A. BONTEMPS
+
+Intensification of heat transfer process : improvement of a shell-and-tube heat exchanger performances by means ofultrasound.
+
+Chemical Engineering and Processing, 49, pp. 936-942, 2010.
+
+ACL10.33
+J.P. MAGNIN, M. CHEIKH, N. GONDREXON, J. WILLISON, A. HASSEN
+
+Zinc an lead leaching from contaminated industrial waste sludges using coupled processes.
+
+Environmental Technology, 31(14), pp. 1577-1585, 2010.
+
+ACL10.34
+C. COMBES, S. TADIER, H. GALLIARD, S. GIROD-FULLANA, C.CHARVILLAT, C. REY,R. AUZELY-VELTY, N. EL KISSI
+
+Rheological properties of calcium carbonate self-setting injectable paste.
+
+Acta Biomaterialia, Volume 6, Issue 3, pages 920-927, March 2010.
+
+ACL10.35
+C. IOJOIU, M. HANA, Y. MOLMERET, M. MARTINEZ, L. COINTEAUX, N. EL KISSI, J. TELES, J.C. LEPRETRE, P. JUDEINSTEIN, J.Y. SANCHEZ
+
+Ionic liquids and their hosting by polymers for HT-PEMFC Membranes fuels cells special issue : high temperature polymer electrolyte membrane fuels cells.
+
+Supercapacitors Volume 10, Issue 5, pages 778-789, October, 2010.
+
+ACL10.36
+M. MARTINEZ, Y. MOLMERET, L. COINTEAUX, C. IOJOIU, J.C. LEPRETRE, N. EL KISSI, P. JUDEINSTEIN, J.Y. SANCHEZ
+
+Proton-conducting ionic liquid based proton exchange membrane fuel cell membranes : the key role of ionomer ionic liquid interaction.
+
+Journal of power sources, volume 195, Issue 18, pages 5829-5839, 15 Septembre 2010.
+
+ACL10.37
+A. KHALIFEH, J.R. CLERMONT
+
+Non-isothermal two- and three-dimensional flow simulations of inelastic and viscoelatic fluids by a finite-volume method.
+
+International Journal for Numerical Methods in Fluids, 2010.
+
+ACL10.38
+M. MOKDAD, A. AMMAR, M. NORMANDIN, F. CHINESTA, J.R. CLERMONT
+
+A fully deterministic micro macro simulation of complex flow involving reversible network fluid models.
+
+Mathematics and Computers in Simulation, Volume 80; Issue 9, pp. 1936-1961, 2010.
+
+ACL11.1
+HANDARMIN, G. JOO YI TAN, B. SUNDARAY, G.T. MARCY, E. LAY KEOW GOH, S. YIAN CHEW
+
+Nanofibrous scaffold with incorporated protein gradient for directing neurite outgrowth.
+
+Drug Deliv. And Transl. Res 1, pp. 147-160. DOI 10.1007/s13346-011-0017-3, 2011.
+
+ACL11.2
+N. MOUGIN, A. MAGNIN, J.M. PIAU
+
+L’influence majeure des contraintes internes sur la dynamique des bulles en fluids à seuil.
+
+GFR, Rhéologie, Volume 19, pp. 40-46, Juin 2011.
+
+
+
+
+ACL11.3
+G. MAITREJEAN, A. AMMAR, F. CHINESTA
+
+Définition microstructurale du mélange : évaluation de l’impact des relations de fermeture en écoulement complexe.
+
+GFR, Rhéologie, Volume 20, pp. 44-52, Décembre 2011.
+
+ACL11.4
+F. ALLOIN, A. D’APREA, A. DUFRESNE, N. EL KISSI, F. BOSSARD
+
+Poly(oxyethylene) and ramie whiskers based nanocomposites. Influence of processing : extrusion and casting/evaporation.
+
+Cellulose, 18(4), pp. 957-974, 2011.
+
+ACL11.5
+G. MAITREJEAN, A. AMMAR, F. CHINESTA
+
+Simulating microstructure evolution during passive mixing.
+
+International Journal of Material Forming, 5 pp. 73-81, 2011.
+
+ACL11.6
+M. CHIHA, O. HAMDAOUI, S. BAUP, N. GONDREXON
+
+Sonolytic degradation of endocrine disrupting chemical 4-cumylphenol in water.
+
+Ultrasonics Sonochemistry, 18(5), pp. 943-950, 2011.
+
+ACL11.7
+A. ABDELHAY, J.P. MAGNIN, N. GONDREXON, S. BAUP, J. WILLISON
+
+Enhancement of mass transfer characteristics and phenanthrene degradation in a two-phase partitioning bioreactor equipped with internal static mixers.
+
+Biotechnology and Bioprocess Engineering, 16(2), pp. 413-418, 2011.
+
+ACL11.8
+M. LEGAY, N. GONDREXON, S. LE PERSON, P. BOLDO, A. BONTEMPS
+
+Enhancement of heat transfer by ultrasound : review and recent advances.
+
+International Journal of Chemical Engineering, Vol. 2011, Article ID 670108, doi : 10.1155/2011/670108, 2011.
+
+ACL11.9
+F. GROS, S. BAUP, M. AUROUSSEAU
+
+Copper cementation on zinc and iron mixures : Part 1 : Results on rotating disc electrode.
+
+Hydrometallurgy, 106(1-2), pp. 119-126, 2011.
+
+ACL11.10
+F. GROS, S. BAUP, M. AUROUSSEAU
+
+Copper cementation on zinc and iron mixures : Part 2 : Fluidized bed configuration.
+
+Hydrometallurgy, 106(1-2), pp. 127-133, 2011.
+
+ACL11.11
+Y. MOLMERET, F. CHABERT, N. EL KISSI, C. IOJOIU, R. MERCIER, J.Y. SANCHEZ
+
+Towards extrusion of ionomers to process fuel cell membranes.
+
+Polymers, 3(3), pp. 1126-1150, doi : 10.3390/polym3031126, 2011.
+
+ACL11.12
+S. LI, C. CADET, P.X. THIVEL, F. DELPECH
+
+Towards the modelling and control of NOx emission in a fluidized bed sludge combustor.
+
+Computers & Chemical Engineering, DOI : 10.1016/j.compchemeng.2010.07.015, 35 (11), pp. 1281-1294, 2011.
+
+ACL11.13
+C. METIVIER, A. MAGNIN
+
+The effect of the boundary stick-slip on the stability of the Rayleigh-Bénard Poiseuille flow for viscoplastic fluids.
+
+J. Non-Newtonian Fluid Mech., 166, pp. 839-846, 2011.
+
+ACL11.14
+C. METIVIER, C. NOUAR
+
+Stability of a Rayleigh-Bénard Poiseuille flow for yield stress fluids.
+
+Int. J. Nonlinear Mech., 46, pp. 1205-1212, 2011.
+
+ACL11.15
+F. GUZMAN-DUQUE, C. PETRIER, C. PULGARIN, G. PANUELA, R. TORRES-PALMA
+
+Effects of sonochemical parameters and inorganic ions during the sonochemical degradation of crystal violet in water.
+
+Ultrasonics Sonochemistry, 18, 5 pp. 440-446, 2011.
+
+ACL11.16
+J.M LEVEQUE, F. FUJITA, A. BOSSON, H. SOHMIYA, C. PETRIER, K. KOMATSU, T. KIMURA
+
+Secondary sonochemical effect on Mo-catalysed bromination of aromatic compounds.
+
+Ultrasonics Sonochemistry, 18, 6, pp. 753-756, 2011.
+
+ACL11.17
+A. BEN MABROUK, A. KADDAMI, A. MAGNIN, M. BELGACEM, N. DUFRESNE, A. et S. BOUFI
+
+Preparation of nanocomposite dispersions based on cellulose whiskers and acrylic copolymer by miniemulsion polymerization : effect of the silane content.
+
+Polymer Engineering & Sciences, 51 (1), pp. 62-70, 2011. 
+
+ACL11.18
+C. DE LOUBENS, A. MAGNIN, M. DOYENNETTE, I.C. TRELEA, I. SOUCHON
+
+A biomechanical model of swallowing for understanding the influence of saliva and f   bolus viscosity on flavor release.
+
+J. Theor Biol., 280 (1), pp. 180-188, 2011.
+
+ACL11.19
+A. SAIDI, C. MARTIN, A. MAGNIN
+
+Effects of surface properties on the impact process of a yield stress fluid drop.
+
+Experiments in Fluids, 37 (2), pp. 237-247, 2011.
+
+ACL11.20
+A. BEN MABROUK, A. MAGNIN, M. BELGACEM, N and S. BOUFI
+
+Melt rheology of nanocomposites based on acrylic copolymer and cellulose whiskers.
+
+Composites Sciences and Technology, Volume 71, Issue 6, pp. 818-827, 2011.
+
+ACL11.21
+A. BEN MABROUK, M. REI VILAR, A. MAGNIN, M. BELGACEM, S. BOUFI
+
+Synthesis and characterization of cellulose whiskers/polymer nanocomposite dispersion by mini-emulsion polymerization.
+
+Journal of colloid and interface science 33, pp. 129-136, 2011.
+
+ACL11.22
+A. KOMLA, D. DURAND, N. TACO
+
+Phase separation driven by aggregation can e reversed by elasticity in gelling mixtures of polysaccharides and proteins.
+
+Softmatter, 2011.
+
+ACL11.23
+C. SAIDOU, J. BOSCO TCHATCHUENG, R. NDJOUENKEU, D. ROUX
+
+Extraction and partial characterisation of hydrocolloid gums from some African legumes.
+
+International Journal of Food Engineering, Vol. 7, Issue 3, Article 15. Doi : 10.2202/1556-3758.1898, 2011.
+
+ACL11.24
+A. KHALIFEH, J.R. CLERMONT
+
+Nonisothermal two- and three-dimensional flow simulations of inelastic and viscoelastic fluids by a finite-volume method.
+
+Int. J. Numer. Methods fluids 65, pp. 341-371, 2011.
+
+ACL11.25
+I. BESBES, A. MAGNIN, S. BOUFI
+
+Rheological behavior of nanofibrillated cellulose/acrylic polymer nanocomposites : effect of melt extrusion.
+
+Polym. Compos. 32, pp. 2070-2075, 2011.
+
+ACL11.26-
+Q. NAWAZ, Y. RHARBI
+
+Glass transition related relaxation dynamic in polystyrene nanoparticles.
+
+Advanced Materials Research, 326, 97. DOI : 10.4028/www.scientific.net/AMR.326.97, 2011.
+
+ACL11.27
+A. ABDELHAY, J.P. MAGNIN, N. GONDREXON, S. BAUP, J. WILLISON
+
+Enhancement of mass transfer characteristics and phenanthrene degradation in a two-phase partitioning bioreactor equipped with internal static mixers.
+
+Biotechnology and Bioprocess Engineering, 16(2), pp. 413-418, 2011..
+
+ACL11.27
+C. YEROMONAHOS, R. MARLU, B. POLACK, F. CATON
+
+Antithrombin-Independent effects of heparins on fibrin clot nanostructure.
+
+Art. Thromb. Vasc. Biol., Vol 32, N° 5, 
+http://atvb.ahajournals.org/content/32/5/1320.abstract, 2011..
+
+ACL12.1
+M. LEGAY, S. LE PERSON, N. GONDREXON, P. BOLDO, A. BONTEMPS
+
+Performances of two heat exchangers assisted by ultrasound.
+
+Applied Thermal Engineering, 37, pp. 60-66, 2012.
+
+ACL12.2
+S. BEKKOUCHE, S. BAUP, M. BOUHELASSA, S. MOLINA-BOISSEAU, C. PETRIER
+
+Compétitive adsorption of phenol and heavy metal ions onto titanium dioxide (Dugussa P25).
+
+Desalination and Water Technology, 37(3), pp. 364-372, 2012.
+
+ACL12.3
+K. BEN AZOUZ, E.C. RAMIRES, W. VAN DEN FONTEYNE, N. EL KISSI, A. DUFRESNE
+
+Simple method for the melt extrusion of a cellulose nanocrystal reinforced hydrophobic polymer.
+
+ACS, Macro Lett. 1, pp. 236-240, 2012.
+
+ACL12.4
+P.A. OSORIO-VARGAS, C. PULGARIN, A. SIENKIEWICZ, M.N. BLANCO, R. TORRES-PALMA, C. PETRIER, J. RENGIFO-HERRERA
+
+Low-frequency ultrasound induces oxygen vacancies formation and visible light absorption in TiO2 P-25 nanoparticles.
+
+Ultrasonics Sonochemistry, 19, 3, pp. 383-386, 2012.
+
+ACL12.5
+F. PIGNON, M. ABYAN, C. DAVID, A. MAGNIN, M. SZTUCKI
+
+In-situ characterization by SAXS of concentration polarization layers during cross-flow ultrafiltration of Laponite dispersions.
+
+Langmuir, 28, pp. 1083-1094, 2012.
+
+ACL12.6
+M. CASTELAIN, P.G. ROUXHET, F. PIGNON, A. MAGNIN, J.P. PIAU
+
+Single-cell adhesion probed in-situ using optical tweezers : a case study with Saccharomyces cerevisiae.
+
+Journal of Applied Physics, 111, 114701, 2012.
+
+ACL12.7
+N. MOUGIN, A. MAGNIN, J.M. PIAU
+
+The significant influence of internal stresses on the dynamics of bubbles in a stress.
+
+Journal of Non-Newtonian Fluid Mechanics, Volumes 171-172, pp. 42-45, 2012.
+
+ACL12.8
+E. GHIRINGHELLI, D. ROUX, D. BLESES, H. GALLIARD, F. CATON
+
+Optimal fourier rheometry application to the gelation of an alginate.
+
+Rheologica Acta, Vol. 51, N°5, Online first, Doi : 10.1007/s00397-012-0616-7, 2012.
+
+ACL12.9
+E. PEUVREL-DISDIER, S. MANNEVILLE, G. OVARLEZ, F. PIGNON, S. RODTS
+
+Apport de techniques couplées (diffusion de rayonnements, résonance magnétique, vélocimétrie ultrasonore) à la rhéologie.
+
+GFR, Rhéologie, Volume 21, pp. 36-67, Juin 2012.
+
+ACL12.10
+J. PARVOLE, I. CHADUC, K. AKO, O. SPALLA, A. THILL, S. RAVAINE, E. DUGUET, M. LANSALOT, E. BOURGEAT-LAMI
+
+Efficient synthesis of snowman- and dumbbell-like silica/polymer anisotropic heterodimers through emulsion polymerization using a surface-anchored cationic initiator.
+
+Macromolecules, July 2012.
+
+ACL12.11
+O. MOUMENI, O. HAMDAOUI, C. PETRIER
+
+Sonochemical degradation of malachite green in water.
+
+Chem. Eng. Process., 62, pp. 47-53, 2012.
+
+ACL12.12
+S. MOSSAZ, P. JAY, A. MAGNIN
+
+Non-recirculating and recirculating inertial flows of a viscoplastic fluid around a cylinder..
+
+J. Non-Newtonian Fluid Mech. 177, pp. 64-75, 2012
+
+ACL12.13
+S. MOSSAZ, P. JAY, A. MAGNIN
+
+Experimental study of stationary inertial flows of a yield-stress fluid around a cylinders.
+
+J. Non-Newtonian Fluid Mech. Volumes 189-190, pp. 40-52, 2012
+
+ACL12.14
+C. METIVIER, Y. RHARBI, A. MAGNIN, A. BOU ABBOUD
+
+Stick-slip control of the carbopol microgels on polymerthyl methacrylate transparent smooth walls.
+
+Soft Matter 8, pp. 7365-7367, 2012.
+
+ACL12.15
+Y. RHARBI
+
+Fusion and fragmentation dynamics at equilibrium in triblock copolymer micelles.
+
+Macromolecules, 45, pp. 9823-9826, 2012.
+
+ACL12.16
+Q. NAWAZ, Y. RHARBI
+
+An inquisitive into the indirect measurement and comparison of the viscosity of nanoconfined polystyrene nanoparticles.
+
+Key Engineering Materials, 510-511, DOI 10.4028/www.scientific.net/KEM.510-511.58, 2012.
+
+ACL12.17
+G. LANDARUZI, V.V. FERNANDEZ, A. SOLTERO, Y. RHARBI
+
+Kinetic of the sphere-to-rod like micelle transition in a pluronic triblock copolymer.
+
+J. Phys. Chem. B, 116:11720, 2012.
+
+ACL12.18
+M. LEGAY, B. SIMONY, S. LE PERSON, N. GONDREXON, P. BOLDO, A. BONTEMPS
+
+Improvement of heat transfer by means of ultrasound : application of a double-tube heat exchanger.
+
+Ultrasonics Sonochemistry, 19, pp. 1194-1200, 2012.
+
+
+
+ACL12.19
+E. GHIRINGHELLI, D. ROUX, D. BLESES, H. GALLIARD, F. CATON
+
+Optimal fourier rheometry.
+
+Rheologica Acta, 51, pp. 413-420, 2012.
+
+ACL12.20
+E. PEUVREL-DISDIER, S. MANNEVILLE, G. OVARLEZ, F. PIGNON, S. RODTS
+
+Apport de techniques couplées (diffusion de rayonnements, resonance magnétique, vélocimétrie ultrasonore.
+Rhéologie, Volume 21, pp. 36-67, 2012.
+
+ACL12.21
+J. PARVOLE, I. CHADUC, K. AKO, O. SPALLA, A. THILL, S. RAVAINE, E. DUGUET
+
+Efficient syntesis of snowman- and dumbbell-like silica/polymer anistropic heterodimers through ab-initio emulsion polymerization using a surface-anchored cationic.
+Macromolecules, 45, pp. 7009-7018, dx.doi.org/10.1021/ma301355g, 2012
+
+ACL12.22
+C. YVEN, J. PATARIN, A. MAGNIN, H. LABOURE, M. REPOUX, E. GUICHARD, G. FERON
+
+Consequences of individual chewing strategies on balus rheological properties at the swallowing threshold.
+J. Texture Stud., 43, pp. 309-318, 2012.
+
+ACL12.23
+A. LANCUSKI, S. FORT, F. BOSSARD,
+
+Electrospun Azido-PCL nanofibers for enhanced surface functionalization by click chemistry.
+
+ACS Appl. Mater, Interfaces, 4, pp. 6499-6504, 2012.
+
+
+ACL13.1
+A. AMMAR, J.R. CLERMONT
+
+Finite-element method for computing fluid and solid mechanics situations.
+
+Frontiers of Engineering Mechanics Research. Feb. 2013, Vol. 2, Iss. 1, pp. 1-8.
+
+ACL13.2
+S. BELHAAJ, A. MAGNIN, C. PETRIER, S. BOUFI
+
+Starch nanoparticles formation via high power ultrasonication.
+
+Carbohydrates Polymers, 92, 2, pp. 1625-1632, 2013.
+
+ACL13.3
+B. BRIOIS, T. SAITO, J.L. PUTAUX, S. MOLINA-BOISSEAU, L. HEUX, Y. NISHIYAMA, C. PETRIER
+
+I-alpha- I-beta transition of cellulose under ultrasonic radiation.
+
+Cellulose, 20, 2, pp. 597-603, 2013.
+
+ACL13.4
+A. AMMAR, J.R. CLERMONT
+
+Finite-element method for computing fluid and solid mechanics situations.
+FEMR (Frontiers of Engineering Mechanics Research). Vol. 2, February 28, pp. 1-8; 2013.
+
+ACL13.5
+A. CHINE, A. AMMAR, J.R. CLERMONT
+
+Non-isothermal simulations of two-dimensional steady flows with slip for a viscoelastic memory-integral fluid.
+
+Article soumis dans Int. J. Num. Meth. In Fluid, 2013.
+
+ACL13.6
+J.R. CLERMONT, A. AMMAR
+
+Domain transformations and stream-tube methods for computations.
+
+Ouvrage en préparation, pour proposition aux éditions Wiley, 2013..
+
+ACL13.7
+S. MOSSAZ, P. JAY, A. MAGNIN
+
+Two-dimensional unsteady inertial flows of a yield-stress fluid around a cylinder.
+
+JNNFM, en révision, 2013.
+
+ACL13.8
+L. JOSSIC, F. AHONGIO, A. MAGNIN
+
+Flow of a yield stress fluid perpendicular to a disc.
+
+Journal of Non-Newtonian Fluid Mechanics, 191, pp. 12-24, 2013.
+
+ACL13.9
+M. DARBOULI, C. METIVIER, J.M. PIAU, A. MAGNIN, A. ABDELALI
+
+Rayleigh-Benard convection for viscoplastic fluids.
+
+Physics of fluid, 25(2), http://dx.doi.org/10.1063/1.4790521, 2013.
+
+
+
+ACL13.10
+A. LOUHICHI, E. TAMBORINI, N. GHOFRANIHA, F. CATON, D. ROUX, J. OBERDISSE, L. CIPELLETTI, L. RAMOS
+
+Nucleation and growth of micellar polycrystals under time-dependent volume fraction conditions.
+
+Phys. Rev. E 87, 032306, http://pre.aps.org/abstract/PRE/v87/i3/e032306.
+
+ACL13.11
+E. TALANSIER, D. DELLAVALLE, C. LOISEL, A. DESRUMAUX, J. LEGRAND, 
+
+Elaboration of controlled structure foams with the SMX static mixer.
+
+AIChE Journal 59,1,  pp. 132-145, 2013.
+
+ACL13.12
+N. HENGL, Y. JIN, F. PIGNON, S .BAUP, R. MOLLARD, N. GONDREXON, A. MAGNIN, L. MICHOT, E. PAINEAU
+
+A new way to apply ultrasound in cross-flow ultrafiltration : application to colloidal suspensions.
+
+Ultrasonics sonochemistry, DOI : 10.1016/j.ultsonch.2013.11.008. Accepté Novembre 2013.
+
+ACL13.13
+M. LEGAY, Y. ALLIBERT, N. GONDREXON, P. BOLDO, S. LE PERSON
+
+Experimental investigations of fouling reduction in an ultrasonically-assisted heat exchanger.
+
+Experimental and thermal Fluid Science, 46, pp. 111-119, 2013.
+
+ACL13.14
+C. DE LOUBENS, N. EL KISSI, A. MAGNIN, J.L. FAUCHERON, B. BONAZ, A. DUBREUIL
+
+Consistency and rheology of human feces : objective measurements and clinical perspectives.
+
+Gastroenterology, in press 2013.
+
+ACL13.15
+A. LOUHICHI, E. TAMBORINI, N. GHOFRANIHA, F. CATON, D. ROUX, J. OBERDISSE, L. CIPELLETTI, L. RAMOS
+
+Nucleation and growth of micellar polycrystals under time-dependent volume fraction conditions.
+
+Phys. Rev. E, 87, 032306, 2013.
+
+ACL13.16
+A. LANCUSKI, F. BOSSARD, S. FORT
+
+Carbohydrate-Decorated PCL fibers fro specific protein adhesion.
+
+Biomacromolécules. 14(6), pp. 1877-1884, 2013.
+
+ACL13.17
+G. LANDAZURI, E.R. MACIAS, V.V.A. FERNANDEZ, J.I. ESCALANTE, L.A. PEREZ-CARRILLO, J.G.A. IVAREZ, P.C. SCHULTZ, Y. RHARBI, J.E. PUIG, J.F.A. SOLTERO
+
+On the shear thickening behaviour of micellar aqueous solutions of cetyltrimethylammonium fluorobenzoates : effect of the fluor position.
+
+Colloids and surfaces A : physicochemical and engineering aspects, 2013. http://dx.doi.org/10.1016/j.colsurfa.2013.05.076, 436, 10-17.
+
+ACL13.18
+C. SAIDOU, R. NDJOUENKEU, D. ROUX, J.B. TCHATCHUENG, A. HEYRAUD, N. EL KISSI
+
+Effect of drying conditions on rheological properties of hydrocolloids gums from triumfetta cordifolia and bridelia thermifolia barks.
+
+Food and nutrition Sciences, 4, pp. 626-631, 2013.
+
+ACL13.19
+S. MBAYE, P. SECHET, F. PIGNON, J.M.F. MARTINS
+
+Influence of hydrodynamics on the growth kinetics of glass-adhering pseudomonas putida cells through a parallel plate flow chamber.
+
+Biomicrofluids 7, 054105, doi 10.1063/1.4821244, 2013
+
+
+ACL13.20
+S. DALHATOU, C. PETRIER, S. LAMINSI, S. BAUP
+
+Sonochemical removal of naphthol blue black azo dye : influence of parameters and effect of mineral ions.
+
+International Journal of Environment Sience and Technology. DOI : 10.1007/s13762-013-0432-8. Accepté 2013.
+
+
+
+
+
+
+ACL13.21
+S. DALHATOU, C. PETRIER, S. LAMINSI, S. BAUP
+
+Sonochemical removal of naphthol blue black azo dye : influence of parameters and effect of mineral ions.
+
+International Journal of Environment Sience and Technology. DOI : 10.1007/s13762-013-0432-8. Accepté 2013.
+
+
+ACL13.22
+B.G.C. MAISONNEUVE, D. ROUX, P. THOM, J.J. COOPER-WHITE
+
+Effects of cell density and biomacromolecule addition on the flow behaviour of concentrated mesenchymal cell suspensions.
+
+Biomacromolecules, 2013.
+
+
+ACL13.23
+S. JACQUART, A. BELIME, R. AUZELY-VELTY, R. BAREILLE, C. ROQUES, N. EL KISSI, F. ANAGNOSTOU, D. CORDIER, C. COMBES
+
+Development of an injectable composite for bone regeneration.
+
+IRBM, Volume 34, Issue 2, Pages 176-179, 2013.
+
+
+ACL13.24
+Y. JIN, F. PIGNON, S. BAUPA, R. MOLLARD, N. GONDREXON, A. MAGNIN, L. MICHOT, E. PAINEAU
+
+A new way to apply ultrasound in cross-flow ultrafiltration : application to colloidal suspensions.
+
+Ultrasonics – Sonochemistry, (Accépté 2013).
+
+
+ACL13.25
+L. JOSSIC, F. AHONGUIO, A. MAGNIN
+
+Influence of surface properties on the creeping flow of yield around spheres.
+
+Journal of Non-Newtonian Fluid Mechanics, En revision, 2013.
+
+
+ACL13.26
+Y. RHARBI, F. BOUE, Q. NAWAZ
+
+The dynamic of confined polystyrene in nanoparticiles in the glassy regime : the close packed morphology.
+
+Macromolecules, 46, pp. 7812-7817, 2013.
+
+
+ACL13.27
+M. G. PEREZ-GARCIA, G. LANDARUZI, L.A. PEREZ-CARILLO, A. GONZALEZ-A IVAREZ, Jorge.E. PUIG, Y. RHARBI, J.F. SOLTERO
+
+
+
+J. Surfact Deterg DOI 10.1007/s11743-013-1525-6.
+
+
+ACL13.28
+B. SUNDARAY, F. BOSSARD, P. LATIL, L. ORGEAS, J.Y. SANCHEZ, J.C. LEPRETRE
+
+Unusual process-induced curl and shrinkage of electrospun PVDF membranes.
+
+Polymer, 54, pp. 4588-4593, 2013
+
+
+ACL14.1
+K. BENHAMOU, A. DUFRESNE, A. MAGNIN, G. MORTHA, H. KADDAMI
+
+Control of size and viscoelastic properties of nanofibrillated cellulose from palm tree by varying the TEMPO-Mediated oxidation time.
+
+Carbohydrate Polymers, 99, 74-83, 2014.
+
+
+ACL14.2
+Y. JIN, N. HENGL, S. BAUP, F. PIGNON, N. GONDREXON, A. MAGNIN, M. SZTUCKI, T. NARAYANAN, L. MICHOT, B. CABANE
+
+Effect of ultrasound on colloidal organization at nanometer length scale during cross-flow ultrafiltration probed by in-situ SAXS.
+
+Journal of Membrane Sciences, 453, pp. 624-635, 2014.
+
+
+ACL14.3
+A. CHINE, A. AMMAR, J.R. CLERMONT
+
+Simulations of two-dimensional steady isothermal and non-isothermal flows with slip for a viscoelastic memory-integral fluid.
+
+Revue Int. Journal for Numerical Methods in Fluids, 2014.
+
+
+
+
+
+
+
+
