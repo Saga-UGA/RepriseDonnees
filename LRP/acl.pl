@@ -37,6 +37,11 @@ sub TITLE {
     shift(@_);
 	s/\.$//;
     print "\ttitle= {$_},\n";
+	print "\tabstract= {},\n";
+	print "\tx-language= {},\n";
+	print "\tx-audience= {},\n";
+
+
 }
 
 sub JOURNAL {
@@ -44,8 +49,10 @@ sub JOURNAL {
 	s/\.$//;
     if (s/^([^,]+),//)  { print "\tjournal = {$1},\n"; }  
     if (s/vol[^ ]+ (\d+),//i)  { print "\tvolume = {$1},\n"; }
- 	if (s/pp[^\d]+([^,]+),//)  { print "\tpages = {$1},\n"; }
-	if (s/([1-2]\d\d\d)$//)  { print "\tyear = {$1},\n"; }
+    if (s/issue[^ ]+ (\d[^,]+),//i)  { print "\tnumber = {$1},\n"; }
+ 	if (s/pp[^\d]+([^,]+),//)  { print "\tpages = {$1},\n"; } else { print "\tpages = {},\n"; }
+	if (s/([1-2]\d\d\d)$//)  { print "\tyear = {$1},\n"; } else { print "\tyear = {},\n"; }
+    if (s/doi[^\d]+(.*),//i)  { print "\tdoi = {$1},\n"; }
 	
 	print "reste =$_\n";
     
