@@ -42,7 +42,6 @@ sub slurp {
 
   $entireFile =~ s/^\n+$//mg;
 
-      print $entireFile;exit;
   close $fh;
   return $entireFile;
 }
@@ -57,10 +56,10 @@ sub oneByOne {
 
 sub extract {
   my $ref = shift;
+  $ref =~ s/^\n+//mg;
 
   my @lines = split /^/, $ref;
-
-  print Dumper @lines;exit;
+  
   my $hash = {
               'key' => calcKey(splitAuthors($lines[0]), $lines[1]),
               'authors' => splitAuthors($lines[0]),
