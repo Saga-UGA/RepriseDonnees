@@ -16,7 +16,8 @@ my $tt = Template->new({
                         START_TAG => quotemeta('{%'),
                         END_TAG   => quotemeta('%}'),
                         TRIM      => 1,
-                       }) || die "$Template::ERROR\n";
+                        ENCODING     => 'utf8',
+                       }) || die "Template::ERROR\n";
 
 
 my $file = $ARGV[0];
@@ -24,7 +25,7 @@ my $data = slurp($file);
 
 foreach (oneByOne($data)) {
   my $vars = extract($_);
-  print $tt->process('acl.tt.bib', $vars)
+  print $tt->process('acl.tt.bib', $vars, undef, {binmode => ':utf8'})
     || die $tt->error(), "\n";
 }
 
@@ -39,6 +40,9 @@ sub slurp {
 
   my $entireFile = <$fh>;
 
+  $entireFile =~ s/^\n+$//mg;
+
+      print $entireFile;exit;
   close $fh;
   return $entireFile;
 }
@@ -46,7 +50,7 @@ sub slurp {
 sub oneByOne {
   my $data = shift;
 
-  my @res = $data =~ m/^\@\n([^\@]+)$/mg;
+  my @res = $data =~ m/^ACL[\d]{2}\.[^\n]+\n(.*?)ACL[\d]{2}\.[^\n]+\n/msg;
 
   return @res;
 }
@@ -56,6 +60,7 @@ sub extract {
 
   my @lines = split /^/, $ref;
 
+  print Dumper @lines;exit;
   my $hash = {
               'key' => calcKey(splitAuthors($lines[0]), $lines[1]),
               'authors' => splitAuthors($lines[0]),
